@@ -12,7 +12,7 @@ Frontend:
 
 Backend:
 
-	•	C# – RESTful Web API built with .NET 6
+	•	C# – RESTful Web API built with .NET 9
  
 	•	SQL Server – Relational database for structured data
  
