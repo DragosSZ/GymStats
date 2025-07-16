@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/gym-stats-backend.props" />
+</Project>
